@@ -3,7 +3,7 @@
     "description": "Uniform Resource Identifier (URI) and Uniform Resource Locator (URL)",
     "type": "library",
     "require": {
-        "php": "~7",
+        "php": ">= 7.4",
         "madkom/regex": "1.*",
         "rize/uri-template": "^0.3.0",
         "true/punycode": "^2.0",
