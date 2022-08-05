@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "php": ">= 7.4",
-        "madkom/regex": "1.*",
+        "madkom/regex": "dev-master",
         "rize/uri-template": "^0.3.0",
         "true/punycode": "^2.0",
         "madkom/collection": "dev-master"
